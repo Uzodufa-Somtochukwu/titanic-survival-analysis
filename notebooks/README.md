@@ -29,7 +29,7 @@ This project applies **data science and machine learning techniques** to explore
 
 ---
 
-## Project Structur
+## Project Structure
 
 ## Key Insights
 - Survival rates were significantly higher among female passengers
