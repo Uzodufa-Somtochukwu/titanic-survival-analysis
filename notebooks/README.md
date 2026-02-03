@@ -29,4 +29,29 @@ This project applies **data science and machine learning techniques** to explore
 
 ---
 
-## Project Structure
+## Project Structur
+
+## Key Insights
+- Survival rates were significantly higher among female passengers
+- Higher passenger class was strongly associated with increased survival
+- Younger passengers showed slightly higher survival probabilities
+
+---
+
+## Modeling
+- Model: Logistic Regression (baseline)
+- Evaluation metrics: Accuracy, confusion matrix
+
+---
+
+## Next Steps
+- Feature engineering (family size, title extraction)
+- Try additional models (Random Forest, Gradient Boosting)
+- Hyperparameter tuning and cross-validation
+
+---
+
+## Author
+**Somto Uzodufa**  
+Data Science & Machine Learning
+
